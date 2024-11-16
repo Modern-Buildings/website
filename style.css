@@ -67,14 +67,6 @@ footer {
 }
 
 /* تصميم خاص للصور */
-img {
-    
-    width: 20%;
- place-self: center;
-    height: auto;
-    display: block;
-    margin: 20px 0;
-}
 
 /* تصميم نموذج التواصل */
 form {

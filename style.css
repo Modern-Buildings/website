@@ -57,7 +57,9 @@ footer {
 
 /* تصميم خاص للصور */
 img {
-    max-width: 100%;
+    
+    width: 20%;
+ 
     height: auto;
     display: block;
     margin: 20px 0;

@@ -18,8 +18,15 @@ header {
 }
 
 header h1 {
+    color: #365f97;
     margin: 0;
     font-size: 2.5rem;
+}
+
+header h2 {
+    color: #365f97;
+    margin: 0;
+  
 }
 
 nav {

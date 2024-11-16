@@ -98,17 +98,3 @@ form button {
     transition: background-color 0.3s ease;
 }
 
-
-
-.floating-buttons a:hover {
-    background-color: #128c7e; /* لون عند التمرير لواتساب */
-    transform: scale(1.1);
-}
-
-.floating-buttons a.call {
-    background-color: #007bff; /* لون الاتصال */
-}
-
-.floating-buttons a.call:hover {
-    background-color: #0056b3; /* لون عند التمرير للاتصال */
-}

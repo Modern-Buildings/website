@@ -556,10 +556,12 @@ header
 }
 
 .header-area.header-sticky .nav li a {
+   font-weight: bold;
   color: #1e1e1e;
 }
 
 .header-area.header-sticky .nav li a.active {
+  font-weight: bold;
   color: #ff589e;
 }
 

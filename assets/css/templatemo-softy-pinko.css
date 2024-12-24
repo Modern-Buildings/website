@@ -94,6 +94,7 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
+  text-align: center;
 }
 
 ul {
@@ -194,6 +195,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   color: #777;
+  text-align: center;
   line-height: 28px;
   letter-spacing: 1px;
 }

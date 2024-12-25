@@ -25,7 +25,7 @@ Table of contents
 font & reset css
 --------------------------------------------- 
 */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
 
 /* 
 ---------------------------------------------
@@ -77,8 +77,9 @@ header, nav, section, article, aside, footer, hgroup {
   box-sizing: border-box;
 }
 
+
 html, body {
-  font-family: "Noto Sans Arabic";
+  font-family: "Alexandria";
   font-weight: 400;
   background-color: #fff;
   font-size: 16px;
@@ -109,7 +110,7 @@ global styles
 html,
 body {
   background: #fff;
-  font-family: "Noto Sans Arabic", sans-serif;
+  font-family: "Alexandria", sans-serif;
 }
 
 ::selection {
